@@ -1,0 +1,11 @@
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RClient\obj\Debug\RClient.csprojResolveAssemblyReference.cache
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RClient\obj\Debug\RemotableObjects.frmRCleint.resources
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RClient\obj\Debug\RClient.csproj.GenerateResource.Cache
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RClient\bin\Debug\RClient.exe
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RClient\bin\Debug\RClient.pdb
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RClient\bin\Debug\RemotableObjects.dll
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RClient\bin\Debug\RemotableObjects.pdb
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RClient\obj\Debug\RClient.exe
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RClient\obj\Debug\RClient.pdb
+C:\TFS\DEV\SampleCodes\remotingSample\Code\RClient\obj\Debug\RClient.exe
+C:\TFS\DEV\SampleCodes\remotingSample\Code\RClient\obj\Debug\RClient.pdb

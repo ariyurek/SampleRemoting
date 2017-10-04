@@ -1,0 +1,10 @@
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RemotableObjects\bin\Debug\RemotableObjects.dll
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RemotableObjects\bin\Debug\RemotableObjects.pdb
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RemotableObjects\obj\Debug\RemotableObjects.csprojResolveAssemblyReference.cache
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RemotableObjects\obj\Debug\RemotableObjects.dll
+C:\Users\alias\Downloads\Net_Remoting_src\Code\RemotableObjects\obj\Debug\RemotableObjects.pdb
+C:\TFS\DEV\SampleCodes\remotingSample\Code\RemotableObjects\bin\Debug\RemotableObjects.dll
+C:\TFS\DEV\SampleCodes\remotingSample\Code\RemotableObjects\bin\Debug\RemotableObjects.pdb
+C:\TFS\DEV\SampleCodes\remotingSample\Code\RemotableObjects\obj\Debug\RemotableObjects.csprojResolveAssemblyReference.cache
+C:\TFS\DEV\SampleCodes\remotingSample\Code\RemotableObjects\obj\Debug\RemotableObjects.dll
+C:\TFS\DEV\SampleCodes\remotingSample\Code\RemotableObjects\obj\Debug\RemotableObjects.pdb
